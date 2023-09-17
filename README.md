@@ -11,6 +11,10 @@ Neural networks are just one of many tools and methods in machine learning algor
 The BP neural network algorithm is a widely used algorithm that can be used to train feedforward artificial neural networks or other parameterized networks with differentiable nodes. It is an efficient way to apply Leibniz's chain rules to these networks. BP neural network is a classic algorithm model in machine learning. It is a widely used network model with powerful nonlinear mapping capabilities, generalization capabilities and fault tolerance capabilities. At the same time, the BP neural network algorithm has some shortcomings, such as slow convergence and easy to fall into local minimum.
 
 [BP_example](https://github.com/Houming-Huang/Porter-Delivery-Time-Estimation/blob/main/BP_example.m)
+
+[![BP指标](https://github.com/Houming-Huang/Porter-Delivery-Time-Estimation/blob/main/images/BP_Exa/%E6%8C%87%E6%A0%87.png)](https://github.com/Houming-Huang/Porter-Delivery-Time-Estimation/blob/main/images/BP_Exa/)
+
+[![BP混淆矩阵](https://github.com/Houming-Huang/Porter-Delivery-Time-Estimation/blob/main/images/BP_Exa/%E6%B7%B7%E6%B7%86%E7%9F%A9%E9%98%B5.png)](https://github.com/Houming-Huang/Porter-Delivery-Time-Estimation/blob/main/images/BP_Exa/)
 ### 3. Naive Bayes Algorithm
 The Naive Bayes algorithm is a supervised machine learning algorithm based on the statistical Bayes theorem that is designed to perform exploratory and predictive modeling of inputs given a category or categories to perform various classification tasks, such as Filter spam, classify documents, predict sentiment, etc.
 
