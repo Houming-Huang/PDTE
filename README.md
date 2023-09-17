@@ -14,7 +14,8 @@ The BP neural network algorithm is a widely used algorithm that can be used to t
 
 [![BP指标](https://github.com/Houming-Huang/Porter-Delivery-Time-Estimation/blob/main/images/BP_Exa/%E6%8C%87%E6%A0%87.png)](https://github.com/Houming-Huang/Porter-Delivery-Time-Estimation/blob/main/images/BP_Exa/)
 
-[![BP混淆矩阵](https://github.com/Houming-Huang/Porter-Delivery-Time-Estimation/blob/main/images/BP_Exa/%E6%B7%B7%E6%B7%86%E7%9F%A9%E9%98%B5.png)](https://github.com/Houming-Huang/Porter-Delivery-Time-Estimation/blob/main/images/BP_Exa/)
+<img src="https://github.com/Houming-Huang/Porter-Delivery-Time-Estimation/blob/main/images/BP_Exa/%E6%B7%B7%E6%B7%86%E7%9F%A9%E9%98%B5.png" alt="BP混淆矩阵" height="360" width="450"/>
+
 ### 3. Naive Bayes Algorithm
 The Naive Bayes algorithm is a supervised machine learning algorithm based on the statistical Bayes theorem that is designed to perform exploratory and predictive modeling of inputs given a category or categories to perform various classification tasks, such as Filter spam, classify documents, predict sentiment, etc.
 
