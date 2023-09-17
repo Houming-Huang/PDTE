@@ -38,3 +38,5 @@ In the above code, different filling value methods are used for different column
 [outliers_handling](https://github.com/Houming-Huang/Porter-Delivery-Time-Estimation/blob/main/outliers_handling.m)
 
 According to the specified conditions, numerical results that do not conform to common sense and reality should be deleted.
+### 2. Feature Processing
+#### 2.1 Feature Creation
