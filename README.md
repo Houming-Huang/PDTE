@@ -35,4 +35,6 @@ Before making predictions, the data set first needs to be preprocessed. After re
 
 In the above code, different filling value methods are used for different column attributes. Missing values in the market_id and order_protocol columns are filled with the mode of the column; missing values in the actual_delivery_time, total_onshift_partners, total_busy_partners, total_outstanding_partners columns are filled with the mean of the column.
 #### 1.2 Outliers Handling
+[outliers_handling](https://github.com/Houming-Huang/Porter-Delivery-Time-Estimation/blob/main/outliers_handling.m)
+
 According to the specified conditions, numerical results that do not conform to common sense and reality should be deleted.
