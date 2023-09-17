@@ -28,3 +28,4 @@ The Naive Bayes algorithm is a supervised machine learning algorithm based on th
 ## Experimental Process
 ### 1.Data Preprocessing
 #### 1.1 Missing Value Filling
+<img src="https://github.com/Houming-Huang/Porter-Delivery-Time-Estimation/blob/main/images/missing_values.png" alt="缺失值" height="290" width="700"/>
