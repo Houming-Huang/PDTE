@@ -9,6 +9,8 @@ A neural network is a machine learning algorithm that mimics the human brain. It
 Neural networks are just one of many tools and methods in machine learning algorithms. Neural networks themselves are also used as part of many different machine learning algorithms to process high-level input into something a computer can understand.
 #### 2.2 BP Neural Network
 The BP neural network algorithm is a widely used algorithm that can be used to train feedforward artificial neural networks or other parameterized networks with differentiable nodes. It is an efficient way to apply Leibniz's chain rules to these networks. BP neural network is a classic algorithm model in machine learning. It is a widely used network model with powerful nonlinear mapping capabilities, generalization capabilities and fault tolerance capabilities. At the same time, the BP neural network algorithm has some shortcomings, such as slow convergence and easy to fall into local minimum.
+
+[BP_example](https://github.com/Houming-Huang/Porter-Delivery-Time-Estimation/blob/main/BP_example.m)
 ### 3. Naive Bayes Algorithm
 The Naive Bayes algorithm is a supervised machine learning algorithm based on the statistical Bayes theorem that is designed to perform exploratory and predictive modeling of inputs given a category or categories to perform various classification tasks, such as Filter spam, classify documents, predict sentiment, etc.
 ## Experimental Process
