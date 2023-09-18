@@ -30,7 +30,7 @@ The Naive Bayes algorithm is a supervised machine learning algorithm based on th
 #### 1.1 Missing Values Filling
 <img src="https://github.com/Houming-Huang/PDTE/blob/main/images/missing_values.png" alt="缺失值" height="290" width="700"/>
 
-[missing values filling](https://github.com/Houming-Huang/PDTE/blob/main/missing_values_filling.m)
+[missing_values_filling](https://github.com/Houming-Huang/PDTE/blob/main/missing_values_filling.m)
 
 Before making predictions, the data set first needs to be preprocessed. After reading the data set file in Matlab, it was found that there were a certain number of missing values in the original data set of the task, so the missing values needed to be filled.  
 
