@@ -64,4 +64,5 @@ Divide records with the same market_id into one category to facilitate subsequen
 
 <img src="https://github.com/Houming-Huang/PDTE/blob/main/images/BP_Est/%E8%AE%AD%E7%BB%83%E7%8A%B6%E6%80%81.png" alt="training" height="360" width="510"/>
 
-<img src="https://github.com/Houming-Huang/PDTE/blob/main/images/BP_Est/%E6%B5%8B%E8%AF%95%E9%9B%86%E9%A2%84%E6%B5%8B%E7%BB%93%E6%9E%9C%E5%AF%B9%E6%AF%94.png" alt="test" height="360" width="505"/><img src="https://github.com/Houming-Huang/PDTE/blob/main/images/BP_Est/%E8%AE%AD%E7%BB%83%E9%9B%86%E9%A2%84%E6%B5%8B%E7%BB%93%E6%9E%9C%E5%AF%B9%E6%AF%94.png" alt="train" height="360" width="505"/>
+<img src="https://github.com/Houming-Huang/PDTE/blob/main/images/BP_Est/%E6%B5%8B%E8%AF%95%E9%9B%86%E9%A2%84%E6%B5%8B%E7%BB%93%E6%9E%9C%E5%AF%B9%E6%AF%94.png" alt="test" height="360" width="510"/>
+<img src="https://github.com/Houming-Huang/PDTE/blob/main/images/BP_Est/%E8%AE%AD%E7%BB%83%E9%9B%86%E9%A2%84%E6%B5%8B%E7%BB%93%E6%9E%9C%E5%AF%B9%E6%AF%94.png" alt="train" height="360" width="510"/>
