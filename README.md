@@ -57,3 +57,11 @@ Calculate the correlation coefficient between each column of features and the ta
 Divide records with the same market_id into one category to facilitate subsequent retrieval.
 ### 5. BP Neural Network Prediction
 [bp_prediction](https://github.com/Houming-Huang/PDTE/blob/main/bp_prediction.m)
+
+[![indicators](https://github.com/Houming-Huang/PDTE/blob/main/images/BP_Est/%E6%8C%87%E6%A0%87.png)](https://github.com/Houming-Huang/PDTE/blob/main/images/BP_Est/)
+
+<img src="https://github.com/Houming-Huang/PDTE/blob/main/images/BP_Est/%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%84.png" alt="structure" height="360" width="510"/>
+
+<img src="https://github.com/Houming-Huang/PDTE/blob/main/images/BP_Est/%E8%AE%AD%E7%BB%83%E7%8A%B6%E6%80%81.png" alt="training" height="360" width="510"/>
+
+<img src="https://github.com/Houming-Huang/PDTE/blob/main/images/BP_Est/%E6%B5%8B%E8%AF%95%E9%9B%86%E9%A2%84%E6%B5%8B%E7%BB%93%E6%9E%9C%E5%AF%B9%E6%AF%94.png" alt="test" height="360" width="505"/><img src="https://github.com/Houming-Huang/PDTE/blob/main/images/BP_Est/%E8%AE%AD%E7%BB%83%E9%9B%86%E9%A2%84%E6%B5%8B%E7%BB%93%E6%9E%9C%E5%AF%B9%E6%AF%94.png" alt="train" height="360" width="505"/>
