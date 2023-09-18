@@ -52,3 +52,6 @@ Since all current features are still in string format, if we want to use these f
 
 Calculate the correlation coefficient between each column of features and the target variable, and select the features that have the greatest impact on predicting the target variable. After analysis, the correlation between market_id and the target variable is generally high.
 ### 4. Dataset Partitioning
+[dataset_partitioning](https://github.com/Houming-Huang/PDTE/blob/main/dataset_partitioning.m)
+
+Divide records with the same market_id into one category to facilitate subsequent retrieval.
