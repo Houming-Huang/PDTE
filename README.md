@@ -48,6 +48,6 @@ Because the food delivery time needs to be predicted based on the time differenc
 
 Since all current features are still in string format, if we want to use these features in a neural network, we need to convert them into an encoded format. So we perform the above encoding operation.
 ### 3. Correlation Coefficient Calculation
-[correlation_calculation]()
+[correlation_calculation](https://github.com/Houming-Huang/PDTE/blob/main/correlation_calculation.m)
 
 Calculate the correlation coefficient between each column of features and the target variable, and select the features that have the greatest impact on predicting the target variable. After analysis, the correlation between market_id and the target variable is generally high.
