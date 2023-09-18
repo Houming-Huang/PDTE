@@ -43,3 +43,11 @@ According to the specified conditions, numerical results that do not conform to 
 [feature_creation](https://github.com/Houming-Huang/PDTE/blob/main/feature_creation.m)
 
 Because the food delivery time needs to be predicted based on the time difference between order creation and food delivery, a new feature time_diff needs to be created in advance to record the time difference.
+#### 2.2 Feature Encoding
+[feature_encoding](https://github.com/Houming-Huang/PDTE/blob/main/feature_encoding.m)
+
+Since all current features are still in string format, if we want to use these features in a neural network, we need to convert them into an encoded format. So we perform the above encoding operation.
+### 3. Correlation Coefficient Calculation
+[correlation_calculation]()
+
+Calculate the correlation coefficient between each column of features and the target variable, and select the features that have the greatest impact on predicting the target variable. After analysis, the correlation between market_id and the target variable is generally high.
